@@ -1,0 +1,7 @@
+[extension]
+id = "minifier"
+name = "Minifier"
+version = "0.1.0"
+description = "Minifier extension for Biscuit"
+author = "biscuit-extensions"
+icon = "icon.png"
